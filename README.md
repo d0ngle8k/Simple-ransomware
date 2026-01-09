@@ -51,12 +51,3 @@ Select folder contain img and .venv.
 
 Select transfer .py to .exe.
 
-# For more information, please go to tutorial by clicking below icon
-
-### YouTube Tutorial
-
-[![YouTube Video](https://img.icons8.com/color/48/000000/youtube-play.png)](https://www.youtube.com/watch?v=Gv-987D22Ao&t=32269s) [![YouTube Video](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://www.youtube.com/watch?v=Gv-987D22Ao&t=32269s)
-
-### Udemy Tutorial
-
-[![Udemy Course](https://img.icons8.com/color/48/000000/udemy.png)](https://www.udemy.com/course/ethical-hacking-build-ransomware-with-control-center-poc/?couponCode=ST11MT170325G3) [![Udemy Course](https://img.shields.io/badge/Udemy-Ethical%20Hacking%20Course-blue?logo=udemy)](https://www.udemy.com/course/ethical-hacking-build-ransomware-with-control-center-poc/?couponCode=ST11MT170325G3)
